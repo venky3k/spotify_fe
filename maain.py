@@ -24,7 +24,7 @@ sel = st.sidebar.radio("------- NAV -------", pages.keys())
 st.sidebar.markdown("")
 page = pages[sel]
 
-BACKEND = "http://127.0.0.1:8000"   
+BACKEND = "spotify-61mzfte9x-kols-projects-e3efcee5.vercel.app"   
 
 
 # @st.cache_data(show_spinner=False)
